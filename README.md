@@ -1,4 +1,5 @@
-# Library- small web application that allows you to add/edit and remove favourite books. 
+# Library
+Small web application that allows you to add/edit and remove favourite books. 
 
 To do list: it will be possible to create account and log in in the future 
 
