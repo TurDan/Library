@@ -1,8 +1,6 @@
 # Library
 Small web application that allows you to add/edit and remove favourite books. 
 
-To do list: it will be possible to create account and log in in the future 
-
 Tech Stack:  Java, Maven, IntelliJ, Hibernate, Spring Data
 
 I used that application to prepare my speech for junior java developers at the conference- I placed in database usefull book titles for the beginners
